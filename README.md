@@ -22,7 +22,7 @@ Prepared by: *Jorge López* <jorge.lopez [at] telecom-sudparis.eu> and *José Re
 
 8. Download the file http://www.tcpdump.org/release/tcpdump-4.9.2.tar.gz, decompress it and display all the lines inside all the files of tcpdump that match "0x20"; create a file with the command used to do this, name it `5.cmd` (hint: `find`)
  
-9. Create a file named 4.cmd inside 4 with the command to used display the current temperature in Paris (hint: [wttr.in](https://github.com/chubin/wttr.in))
+9. Create a file named `6.cmd` with the command used display the current temperature in Paris (hint: [wttr.in](https://github.com/chubin/wttr.in))
 
 
 ## Part 2 - shell scripts
